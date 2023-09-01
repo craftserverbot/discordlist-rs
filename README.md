@@ -2,6 +2,8 @@
 
 > Integrate your Discord bot with the [discordlist.gg](1) API.
 
+[![CI Status](https://github.com/doinkythederp/discordlist-rs/actions/workflows/build.yml/badge.svg)](https://github.com/doinkythederp/discordlist-rs/actions/workflows/build.yml)
+
 ## Installation
 
 Install the crate using `cargo add`:
