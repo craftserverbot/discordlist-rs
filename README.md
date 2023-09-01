@@ -2,7 +2,7 @@
 
 > Integrate your Discord bot with the [discordlist.gg](1) API.
 
-[![CI Status](https://github.com/doinkythederp/discordlist-rs/actions/workflows/build.yml/badge.svg)](https://github.com/doinkythederp/discordlist-rs/actions/workflows/build.yml)
+[![CI Status](https://github.com/doinkythederp/discordlist-rs/actions/workflows/build.yml/badge.svg)](https://github.com/doinkythederp/discordlist-rs/actions/workflows/build.yml) ![GitHub](https://img.shields.io/github/license/craftserverbot/discordlist-rs)
 
 ## Installation
 
