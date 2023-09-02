@@ -27,9 +27,9 @@ Discordlist-rs uses `reqwest` to make HTTPS requests, which has two options for 
 - `rustls-tls` (default): Use the `rustls` crate to make HTTPS requests.
 - `native-tls`: Use the platform-specific TLS implementation to make HTTPS requests.
 
-Discordlist also has some undocumented API endpoints which can be enabled with a feature:
+Discordlist also has some undocumented API endpoints which can be controlled with a feature:
 
-- `undocumented`: Enable making API calls that are not documented by Discordlist. Considered less stable.
+- `undocumented` (default): Enable making API calls that are not documented by Discordlist. Considered less stable.
 
 ## Usage
 
